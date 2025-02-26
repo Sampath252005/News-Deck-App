@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "totalResults": 8,
+  "articles": [
+    {
+      "source": {
+        "id": "al-jazeera-english",
+        "name": "Al Jazeera English"
+      },
+      "author": "Al Jazeera",
+      "title": "What’s behind Trump’s ban on transgender women in US women’s sports?",
+      "description": "The directive could strip federal funding from schools that allow trans women and girls to compete in women’s events.",
+      "url": "https://www.aljazeera.com/news/2025/2/7/whats-behind-trumps-ban-on-transgender-women-in-us-womens-sports",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2025/02/AFP__20250206__2197275408__v3__HighRes__PresidentTrumpSignsNoMenInWomenSSportsExecut-1738846552.jpg?resize=1920%2C1440",
+      "publishedAt": "2025-02-07T07:49:51Z",
+      "content": "United States President Donald Trump has issued an executive order that bans transgender girls and women from participating in womens sports in schools and other educational settings.\r\nThe directive,… [+10317 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "John Fanta",
+      "title": "Why Mike Woodson's time at Indiana had to come to an end, and what's next?",
+      "description": "FOX Sports' John Fanta explains why Mike Woodson and Indiana needed to go their separate ways and what's next for the Hoosiers.",
+      "url": "https://www.foxsports.com/stories/college-basketball/why-mike-woodsons-time-indiana-had-come-end-whats-next",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/10/1408/814/mike-woodson.jpg?ve=1&tl=1",
+      "publishedAt": "2025-02-07T04:06:53Z",
+      "content": "The Mike Woodson era at Indiana\r\n will end after this season. \r\nThe Hoosier alum, now in his fourth and final season at the helm, has agreed with the university that this season will be his last as t… [+3222 chars]"
+    },
+    {
+      "source": {
+        "id": "breitbart-news",
+        "name": "Breitbart News"
+      },
+      "author": "Breitbart TV",
+      "title": "Alex Marlow: Donald Trump Saves Women’s Sports After Woman Sniffer Joe Biden Destroyed It",
+      "description": "On Thursday's \"Alex Marlow Show,\" host and Breitbart Editor-in-Chief Alex Marlow discussed President Trump's order on women's sports. Marlow stated, \"Joe | Clips",
+      "url": "https://www.breitbart.com/clips/2025/02/06/alex-marlow-donald-trump-saves-womens-sports-after-woman-sniffer-joe-biden-destroyed-it/",
+      "urlToImage": "https://media.breitbart.com/media/2024/12/1230-Thumbnail-3-640x335.jpg",
+      "publishedAt": "2025-02-07T03:16:49Z",
+      "content": "On Thursday’s “Alex Marlow Show,” host and Breitbart Editor-in-Chief Alex Marlow discussed President Trump’s order on women’s sports.\r\nMarlow stated, “Joe Biden, who’s known for sniffing women and As… [+560 chars]"
+    },
+    {
+      "source": {
+        "id": "rte",
+        "name": "RTE"
+      },
+      "author": "Joan O'Sullivan",
+      "title": "Increase in US citizens applying for Irish passports",
+      "description": "The number of people in the United States seeking to become Irish citizens has significantly increased.",
+      "url": "https://www.rte.ie/news/2025/0207/1495205-passport-applications/",
+      "urlToImage": "https://img.rasset.ie/001fb850-1600.jpg",
+      "publishedAt": "2025-02-07T00:00:00Z",
+      "content": "The number of people in the United States seeking to become Irish citizens has significantly increased.\r\nLast year the number of foreign birth registrations in the US increased by half compared to 20… [+2776 chars]"
+    },
+    {
+      "source": {
+        "id": "time",
+        "name": "Time"
+      },
+      "author": "Sean Gregory / Boston",
+      "title": "The Man Who Took On Big Tobacco Has a New Target: Sports Betting",
+      "description": "Law professor Richard Daynard led the fight against tobacco companies in the 1980s and '90s. Now he has a new target: sports betting.",
+      "url": "http://time.com/7209769/sports-betting-gambling-addiction-richard-daynard-lawsuit/",
+      "urlToImage": "https://api.time.com/wp-content/uploads/2025/01/richard-daynard-tony-luong-sports-gambling.jpeg?quality=85&w=1200&h=628&crop=1",
+      "publishedAt": "2025-01-27T12:00:00Z",
+      "content": "On a balmy December morning in Boston, Richard Daynard is sitting at his dining-room table watching a livestream on his laptop. Pure. Horsesh-it, he declares as a witness testifies before the Senate … [+20473 chars]"
+    },
+    {
+      "source": {
+        "id": "talksport",
+        "name": "TalkSport"
+      },
+      "author": "Liam Hoofe",
+      "title": "Best betting sites UK | Top betting site offers for October 2024...",
+      "description": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events…",
+      "url": "https://talksport.com/betting/1760032/best-betting-sites-uk/",
+      "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2024/08/talksport-best-betting-sites-uk-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+      "publishedAt": "2024-10-04T08:45:00Z",
+      "content": "Sports bettors in the UK are spoiled for choice among the best betting sites: If you want in-depth football betting markets, there is a bookmaker for you; if you want to bet on esports or TV events, … [+17381 chars]"
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": "New Micah Parsons Show ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.6381564Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "bleacher-report",
+        "name": "Bleacher Report"
+      },
+      "author": null,
+      "title": " Mikal Bridges Interview ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+      "urlToImage": null,
+      "publishedAt": "2023-11-27T20:37:24.3882176Z",
+      "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+    }
+  ]
+}
